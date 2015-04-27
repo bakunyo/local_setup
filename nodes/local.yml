@@ -2,14 +2,22 @@ brew:
   enable_update: false
   enable_upgrade: false
   install_packages:
+    - bash
     - caskroom/cask/brew-cask
     - ctags
     - git
     - jq
     - node
+    - peco
     - rbenv
     - ruby-build
     - vim
   install_apps:
+    - bettertouchtool
+    - clipmenu
+    - google-chrome
     - google-japanese-ime
     - iterm2
+    - caskroom/versions/sublime-text3
+    - virtualbox
+    - vagrant

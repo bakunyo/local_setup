@@ -14,7 +14,9 @@ brew:
     - vim
   install_apps:
     - bettertouchtool
+    - caffeine
     - clipmenu
+    - cyberduck
     - google-chrome
     - google-japanese-ime
     - iterm2

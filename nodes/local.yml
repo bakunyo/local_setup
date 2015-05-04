@@ -19,6 +19,7 @@ brew:
     - cyberduck
     - google-chrome
     - google-japanese-ime
+    - imageoptim
     - iterm2
     - caskroom/versions/sublime-text3
     - virtualbox

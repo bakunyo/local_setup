@@ -21,6 +21,7 @@ brew:
     - google-japanese-ime
     - imageoptim
     - iterm2
+    - skitch
     - caskroom/versions/sublime-text3
     - virtualbox
     - vagrant

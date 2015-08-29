@@ -6,22 +6,30 @@ brew:
     - caskroom/cask/brew-cask
     - ctags
     - git
+    - graphviz
+    - imagemagick
     - jq
     - node
     - peco
+    - postgresql
     - rbenv
     - ruby-build
+    - ttyrec
     - vim
   install_apps:
     - bettertouchtool
     - caffeine
     - clipmenu
     - cyberduck
+    - eclipse-platform
     - google-chrome
     - google-japanese-ime
     - imageoptim
     - iterm2
+    - java6
+    - java7
     - skitch
+    - sequel-pro
     - caskroom/versions/sublime-text3
     - virtualbox
     - vagrant

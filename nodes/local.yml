@@ -3,16 +3,19 @@ brew:
   enable_upgrade: false
   install_packages:
     - bash
-    - caskroom/cask/brew-cask
     - ctags
+    - dnvm
     - git
     - graphviz
     - imagemagick
     - jq
+    - memcached
+    - mysql
     - node
     - peco
     - postgresql
     - rbenv
+    - redis
     - ruby-build
     - ttyrec
     - vim
@@ -28,8 +31,10 @@ brew:
     - iterm2
     - java6
     - java7
+    - kindle
     - skitch
     - sequel-pro
     - caskroom/versions/sublime-text3
     - virtualbox
+    - visual-studio-code
     - vagrant

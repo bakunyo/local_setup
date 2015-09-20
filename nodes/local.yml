@@ -17,6 +17,7 @@ brew:
     - rbenv
     - redis
     - ruby-build
+    - the_silver_searcher
     - ttyrec
     - vim
   install_apps:
@@ -31,7 +32,9 @@ brew:
     - iterm2
     - java6
     - java7
+    - keycastr
     - kindle
+    - licecap
     - skitch
     - sequel-pro
     - caskroom/versions/sublime-text3

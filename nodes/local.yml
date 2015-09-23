@@ -10,6 +10,7 @@ brew:
     - imagemagick
     - jq
     - memcached
+    - mongodb
     - mysql
     - node
     - peco
@@ -39,5 +40,4 @@ brew:
     - sequel-pro
     - caskroom/versions/sublime-text3
     - virtualbox
-    - visual-studio-code
     - vagrant

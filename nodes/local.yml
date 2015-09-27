@@ -22,6 +22,7 @@ brew:
     - ttyrec
     - vim
   install_apps:
+    - astah-community
     - bettertouchtool
     - caffeine
     - clipmenu
@@ -35,9 +36,11 @@ brew:
     - java7
     - keycastr
     - kindle
+    - kobito
     - licecap
     - skitch
     - sequel-pro
     - caskroom/versions/sublime-text3
     - virtualbox
+    - visual-studio-code
     - vagrant

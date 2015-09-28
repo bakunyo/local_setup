@@ -31,6 +31,7 @@ brew:
     - clipmenu
     - cyberduck
     - eclipse-platform
+    - firefox
     - google-chrome
     - google-japanese-ime
     - imageoptim

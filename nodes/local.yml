@@ -1,8 +1,11 @@
 brew:
   enable_update: false
   enable_upgrade: false
+  add_repositories:
+    - aspnet/dnx
   install_packages:
     - bash
+    - caskroom/cask/brew-cask
     - ctags
     - dnvm
     - git
@@ -32,8 +35,7 @@ brew:
     - google-japanese-ime
     - imageoptim
     - iterm2
-    - java6
-    - java7
+    - java
     - keycastr
     - kindle
     - kobito

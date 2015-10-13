@@ -8,6 +8,7 @@ brew:
     - caskroom/cask/brew-cask
     - ctags
     - dnvm
+    - ffmpeg
     - git
     - graphviz
     - imagemagick
@@ -29,6 +30,7 @@ brew:
     - bettertouchtool
     - caffeine
     - clipmenu
+    - coteditor
     - cyberduck
     - eclipse-platform
     - firefox
